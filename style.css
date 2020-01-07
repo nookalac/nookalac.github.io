@@ -1,0 +1,9 @@
+body, html{
+    background-color: azure;
+}
+h1{
+    color: blue;
+}
+.main{
+    padding-left: 10vw;
+}
